@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c7e29711d0685e841a756c44201012f4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura Round Demi
+  fontNames:
+  - Futura Round Demi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 417aa11b686837d4a9981c76b673727e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
